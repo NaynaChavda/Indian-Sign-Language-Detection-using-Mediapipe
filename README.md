@@ -2,6 +2,18 @@
 
 This project is designed to recognize Indian Sign Language (ISL) gestures using hand landmarks detected from images and real-time video. The goal is to create a system that can interpret ISL gestures, which are commonly used by the deaf and hard-of-hearing community in India, and translate them into meaningful output. The project leverages computer vision and machine learning techniques to detect hand gestures, process them, and predict the corresponding letters or numbers in real-time.
 
+ISL for number 3:
+![original1](./original1.png)
+
+Sign recognized by the model:
+![output1](./output1.png)
+
+ISL for alphabet A:
+![original2](./original2.png)
+
+Sign recognized by the model:
+![output2](./output2.png)
+
 ## Dataset : 
 The dataset consists of over 36,000 images, categorized into gestures representing various characters of the ISL alphabet and numbers.
 https://drive.google.com/drive/folders/1j0CdSLnw_4A8N8-RqzAH2k2J7XnRQDWQ?usp=drive_link
